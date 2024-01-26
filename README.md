@@ -23,4 +23,4 @@ I love this kind of projects, from which I can learn a lot.
 
 ## Acknowledgment
 
-Thanks to everyone who gives feedback on my solution. It definitely helps you find new ways to code and find easier solutions!
+Thanks to everyone who gives feedback on my solution. It definitely helped me find new ways to code and find easier solutions!
